@@ -1,0 +1,904 @@
+Accessories,291
+"Alarms, Buzzers, and Sirens",3087
+"Buzzer Elements, Piezo Benders",92
+Microphones,1305
+Speakers,1684
+Accessories,84
+Batteries Non-Rechargeable (Primary),571
+Batteries Rechargeable (Secondary),645
+Battery Chargers,331
+"Battery Holders, Clips, Contacts",1568
+Battery Packs,2805
+Cigarette Lighter Assemblies,64
+Backplanes,86
+Box Accessories,1507
+Box Components,2728
+Boxes,11360
+Cams,66
+Card Guide Accessories,1396
+Card Guides,750
+Card Rack Accessories,523
+Card Racks,431
+"Evaluation, Development Board Enclosures",269
+Handles,513
+"Latches, Locks",231
+"Patchbay, Jack Panel Accessories",125
+"Patchbay, Jack Panels",623
+Rack Accessories,1730
+Rack Components,2313
+Rack Thermal Management,467
+Racks,1916
+Barrel - Audio Cables,625
+Barrel - Power Cables,443
+Between Series Adapter Cables,1656
+Circular Cable Assemblies,26997
+Coaxial Cables (RF),5382
+"D-Shaped, Centronics Cables",608
+D-Sub Cables,11455
+Fiber Optic Cables,31648
+Firewire Cables (IEEE 1394),72
+"Flat Flex Cables (FFC, FPC)",2237
+"Flat Flex, Ribbon Jumper Cables",17008
+"Jumper Wires, Pre-Crimped Leads",22998
+LGH Cables,529
+Modular Cables,17690
+Pluggable Cables,3253
+"Power, Line Cables and Extension Cords",1686
+Rectangular Cable Assemblies,87789
+Smart Cables,72
+Solid State Lighting Cables,289
+Specialized Cable Assemblies,765
+USB Cables,1775
+"Video Cables (DVI, HDMI)",1101
+Coaxial Cables (RF),2977
+Fiber Optic Cables,2743
+"Flat Flex Cables (FFC, FPC)",174
+Flat Ribbon Cables,7528
+Modular - Flat Cable,434
+Multiple Conductor Cables,31138
+Single Conductor Cables (Hook-Up Wire),19863
+Wire Wrap,99
+Accessories,1850
+"Bushings, Grommets",1077
+Cable and Cord Grips,1502
+Cable Supports and Fasteners,3609
+Cable Ties - Holders and Mountings,964
+Cable Ties and Cable Lacing,5171
+"Cold Shrink Tape, Tubing",92
+Fiber Optic Cables,161
+"Grounding Braid, Straps",334
+"Heat Shrink Boots, Caps",5384
+Heat Shrink Fabric,102
+Heat Shrink Tubing,12090
+Heat Shrink Wrap,7
+"Labels, Labeling",4012
+Markers,6819
+"Protective Hoses, Solid Tubing, Sleeving",2062
+"Pulling, Support Grips",191
+Solder Sleeve,1660
+"Spiral Wrap, Expandable Sleeving",2112
+"Splice Enclosures, Protection",540
+"Wire Ducts, Raceways",1886
+"Wire Ducts, Raceways - Accessories",2398
+"Wire Ducts, Raceways - Accessories - Covers",430
+Accessories,247
+Aluminum - Polymer Capacitors,10040
+Aluminum Electrolytic Capacitors,121043
+"Capacitor Networks, Arrays",2570
+Ceramic Capacitors,666891
+"Electric Double Layer Capacitors (EDLC), Supercapacitors",1376
+Film Capacitors,63691
+Mica and PTFE Capacitors,9019
+Niobium Oxide Capacitors,414
+Silicon Capacitors,213
+Tantalum - Polymer Capacitors,11148
+Tantalum Capacitors,67462
+Thin Film Capacitors,2442
+"Trimmers, Variable Capacitors",2398
+Accessories,2050
+Circuit Breakers,40842
+"Electrical, Specialty Fuses",14346
+Fuseholders,5041
+Fuses,25032
+Gas Discharge Tube Arresters (GDT),3718
+Ground Fault Circuit Interrupter (GFCI),157
+Inrush Current Limiters (ICL),1022
+Lighting Protection,286
+PTC Resettable Fuses,5952
+Surge Suppression ICs,664
+Thermal Cutoffs (Thermal Fuses),122
+TVS - Diodes,85918
+TVS - Mixed Technology,1285
+TVS - Thyristors,3722
+"TVS - Varistors, MOVs",14769
+Accessories,1006
+Adapter Cards,230
+"Adapters, Converters",282
+Brackets,38
+"Cameras, Projectors",16
+"Computer Mouse, Trackballs",45
+"Desktop Joysticks, Simulation Products",19
+Keyboards,169
+KVM Switches (Keyboard Video Mouse),121
+KVM Switches (Keyboard Video Mouse) - Cables,82
+"Magnetic Strip, Smart Card Readers",74
+Memory Card Readers,15
+Monitors,62
+"Printers, Label Makers",102
+"Privacy Filters, Screen Protectors",200
+Server Acceleration Cards,4
+Backplane Connectors - Accessories,1945
+Backplane Connectors - ARINC,945
+Backplane Connectors - ARINC Inserts,88
+Backplane Connectors - Contacts,1326
+Backplane Connectors - DIN 41612,5767
+"Backplane Connectors - Hard Metric, Standard",4229
+Backplane Connectors - Housings,1556
+Backplane Connectors - Specialized,26601
+Banana and Tip Connectors - Accessories,28
+Banana and Tip Connectors - Adapters,63
+Banana and Tip Connectors - Binding Posts,164
+"Banana and Tip Connectors - Jacks, Plugs",1202
+Barrel - Accessories,70
+Barrel - Audio Adapters,70
+Barrel - Audio Connectors,1908
+Barrel - Power Connectors,713
+Between Series Adapters,480
+Blade Type Power Connectors,2374
+Blade Type Power Connectors - Accessories,155
+Blade Type Power Connectors - Contacts,149
+Blade Type Power Connectors - Housings,271
+Card Edge Connectors - Accessories,176
+Card Edge Connectors - Adapters,70
+Card Edge Connectors - Contacts,196
+Card Edge Connectors - Edgeboard Connectors,177395
+Card Edge Connectors - Housings,263
+Circular Connectors,494756
+Circular Connectors - Accessories,6677
+Circular Connectors - Adapters,1283
+Circular Connectors - Backshells and Cable Clamps,9943
+Circular Connectors - Contacts,2333
+Circular Connectors - Housings,212298
+Coaxial Connectors (RF),13004
+Coaxial Connectors (RF) - Accessories,847
+Coaxial Connectors (RF) - Adapters,2932
+Coaxial Connectors (RF) - Contacts,244
+Coaxial Connectors (RF) - Terminators,490
+Contacts - Leadframe,67
+Contacts - Multi Purpose,2416
+"Contacts, Spring Loaded and Pressure",490
+D-Shaped Connectors - Centronics,3450
+D-Sub Connectors,41358
+"D-Sub, D-Shaped Connectors - Accessories",1795
+"D-Sub, D-Shaped Connectors - Accessories - Jackscrews",773
+"D-Sub, D-Shaped Connectors - Adapters",637
+"D-Sub, D-Shaped Connectors - Backshells, Hoods",3194
+"D-Sub, D-Shaped Connectors - Contacts",1661
+"D-Sub, D-Shaped Connectors - Housings",3479
+"D-Sub, D-Shaped Connectors - Terminators",32
+"FFC, FPC (Flat Flexible) Connectors",14820
+"FFC, FPC (Flat Flexible) Connectors - Accessories",36
+"FFC, FPC (Flat Flexible) Connectors - Contacts",151
+"FFC, FPC (Flat Flexible) Connectors - Housings",337
+Fiber Optic Connectors,1644
+Fiber Optic Connectors - Accessories,424
+Fiber Optic Connectors - Adapters,1723
+Fiber Optic Connectors - Housings,435
+Heavy Duty Connectors - Accessories,2882
+Heavy Duty Connectors - Assemblies,365
+Heavy Duty Connectors - Contacts,1192
+Heavy Duty Connectors - Frames,367
+"Heavy Duty Connectors - Housings, Hoods, Bases",10027
+"Heavy Duty Connectors - Inserts, Modules",2789
+Keystone - Accessories,214
+"Keystone - Faceplates, Frames",708
+Keystone - Inserts,930
+LGH Connectors,375
+Memory Connectors - Accessories,221
+Memory Connectors - Inline Module Sockets,1770
+Memory Connectors - PC Card Sockets,2883
+Memory Connectors - PC Cards - Adapters,18
+Modular Connectors - Accessories,677
+Modular Connectors - Adapters,518
+Modular Connectors - Jacks,12243
+Modular Connectors - Jacks With Magnetics,7845
+Modular Connectors - Plug Housings,70
+Modular Connectors - Plugs,956
+Modular Connectors - Wiring Blocks,56
+Modular Connectors - Wiring Blocks - Accessories,36
+Photovoltaic (Solar Panel) Connectors,312
+Photovoltaic (Solar Panel) Connectors - Accessories,54
+Photovoltaic (Solar Panel) Connectors - Contacts,41
+Pluggable Connectors,4058
+Pluggable Connectors - Accessories,634
+Power Entry Connectors - Accessories,501
+"Power Entry Connectors - Inlets, Outlets, Modules",8500
+Rectangular Connectors - Accessories,4449
+Rectangular Connectors - Adapters,259
+"Rectangular Connectors - Arrays, Edge Type, Mezzanine (Board to Board)",36453
+"Rectangular Connectors - Board In, Direct Wire to Board",1693
+"Rectangular Connectors - Board Spacers, Stackers (Board to Board)",213792
+Rectangular Connectors - Contacts,7542
+"Rectangular Connectors - Free Hanging, Panel Mount",16615
+"Rectangular Connectors - Headers, Male Pins",477076
+"Rectangular Connectors - Headers, Receptacles, Female Sockets",217280
+"Rectangular Connectors - Headers, Specialty Pin",5451
+Rectangular Connectors - Housings,18264
+Rectangular Connectors - Spring Loaded,7221
+"Shunts, Jumpers",689
+"Sockets for ICs, Transistors",21151
+"Sockets for ICs, Transistors - Accessories",123
+"Sockets for ICs, Transistors - Adapters",255
+Solid State Lighting Connectors,1298
+Solid State Lighting Connectors - Accessories,137
+Solid State Lighting Connectors - Contacts,320
+Terminal Blocks - Accessories,3930
+Terminal Blocks - Accessories - Jumpers,1918
+Terminal Blocks - Accessories - Marker Strips,4140
+Terminal Blocks - Accessories - Wire Ferrules,1543
+Terminal Blocks - Adapters,610
+Terminal Blocks - Barrier Blocks,39500
+Terminal Blocks - Contacts,37
+"Terminal Blocks - Din Rail, Channel",4367
+"Terminal Blocks - Headers, Plugs and Sockets",68878
+Terminal Blocks - Interface Modules,1032
+Terminal Blocks - Panel Mount,1000
+Terminal Blocks - Power Distribution,434
+Terminal Blocks - Specialized,1442
+Terminal Blocks - Wire to Board,25588
+Terminal Junction Systems,1879
+Terminal Strips and Turret Boards,506
+Terminals - Accessories,47
+Terminals - Adapters,83
+"Terminals - Barrel, Bullet Connectors",524
+Terminals - Foil Connectors,38
+"Terminals - Housings, Boots",1325
+Terminals - Knife Connectors,45
+Terminals - Magnetic Wire Connectors,1223
+"Terminals - PC Pin Receptacles, Socket Connectors",4820
+"Terminals - PC Pin, Single Post Connectors",2443
+"Terminals - Quick Connects, Quick Disconnect Connectors",6291
+Terminals - Rectangular Connectors,3464
+Terminals - Ring Connectors,7455
+Terminals - Screw Connectors,487
+Terminals - Solder Lug Connectors,46
+Terminals - Spade Connectors,2828
+Terminals - Specialized Connectors,798
+Terminals - Turret Connectors,1245
+Terminals - Wire Pin Connectors,193
+Terminals - Wire Splice Connectors,2547
+Terminals - Wire to Board Connectors,161
+"USB, DVI, HDMI Connectors",2974
+"USB, DVI, HDMI Connectors - Accessories",181
+"USB, DVI, HDMI Connectors - Adapters",291
+Crystals,52349
+Oscillators,321311
+Pin Configurable/Selectable Oscillators,6268
+Programmable Oscillators,118711
+Resonators,1771
+Sockets and Insulators,155
+Stand Alone Programmers,20
+VCOs (Voltage Controlled Oscillators),672
+Accessories,2811
+Evaluation and Demonstration Boards and Kits,11535
+Evaluation Boards - Analog to Digital Converters (ADCs),1981
+Evaluation Boards - Audio Amplifiers,677
+Evaluation Boards - DC/DC & AC/DC (Off-Line) SMPS,5215
+Evaluation Boards - Digital to Analog Converters (DACs),633
+"Evaluation Boards - Embedded - Complex Logic (FPGA, CPLD)",558
+"Evaluation Boards - Embedded - MCU, DSP",3821
+"Evaluation Boards - Expansion Boards, Daughter Cards",2604
+Evaluation Boards - LED Drivers,1121
+Evaluation Boards - Linear Voltage Regulators,681
+Evaluation Boards - Op Amps,1030
+Evaluation Boards - Sensors,2357
+"Programmers, Emulators, and Debuggers",1013
+"Programming Adapters, Sockets",1682
+"Software, Services",2582
+UV Erasers,6
+Diodes - Bridge Rectifiers,5858
+Diodes - Rectifiers - Arrays,14926
+Diodes - Rectifiers - Single,49359
+Diodes - RF,2105
+"Diodes - Variable Capacitance (Varicaps, Varactors)",1134
+Diodes - Zener - Arrays,1990
+Diodes - Zener - Single,57795
+Power Driver Modules,788
+"Thyristors - DIACs, SIDACs",383
+Thyristors - SCRs,3742
+Thyristors - SCRs - Modules,2691
+Thyristors - TRIACs,3483
+Transistors - Bipolar (BJT) - Arrays,2885
+"Transistors - Bipolar (BJT) - Arrays, Pre-Biased",3469
+Transistors - Bipolar (BJT) - RF,2334
+Transistors - Bipolar (BJT) - Single,20883
+"Transistors - Bipolar (BJT) - Single, Pre-Biased",7096
+"Transistors - FETs, MOSFETs - Arrays",7357
+"Transistors - FETs, MOSFETs - RF",3838
+"Transistors - FETs, MOSFETs - Single",48266
+Transistors - IGBTs - Arrays,17
+Transistors - IGBTs - Modules,2334
+Transistors - IGBTs - Single,3637
+Transistors - JFETs,929
+Transistors - Programmable Unijunction,22
+Transistors - Special Purpose,268
+Accessories,631
+Interface Boards,122
+Single Board Computers (SBCs),1379
+AC Fans,3018
+DC Fans,15305
+Fans - Accessories,343
+Fans - Accessories - Fan Cords,232
+"Fans - Finger Guards, Filters & Sleeves",847
+Thermal - Accessories,642
+"Thermal - Adhesives, Epoxies, Greases, Pastes",276
+"Thermal - Heat Pipes, Vapor Chambers",458
+Thermal - Heat Sinks,112059
+Thermal - Liquid Cooling,115
+"Thermal - Pads, Sheets",4476
+"Thermal - Thermoelectric, Peltier Assemblies",150
+"Thermal - Thermoelectric, Peltier Modules",867
+Accessories,50
+Ceramic Filters,324
+Common Mode Chokes,7958
+DSL Filters,54
+"EMI/RFI Filters (LC, RC Networks)",4166
+Feed Through Capacitors,3805
+Ferrite Beads and Chips,8447
+Ferrite Cores - Cables and Wiring,1711
+Ferrite Disks and Plates,84
+Helical Filters,25
+Monolithic Crystals,33
+Power Line Filter Modules,4709
+RF Filters,1394
+SAW Filters,1909
+Accessories,309
+Bearings,60
+"Board Spacers, Standoffs",10210
+Board Supports,1940
+"Bumpers, Feet, Pads, Grips",736
+"Clips, Hangers, Hooks",233
+"Component Insulators, Mounts, Spacers",686
+DIN Rail Channel,592
+Foam,250
+Hinges,142
+Hole Plugs,271
+Knobs,2026
+Miscellaneous,739
+Mounting Brackets,52
+Nuts,345
+Reclosable Fasteners,570
+Rivets,944
+Screw Grommets,351
+"Screws, Bolts",1304
+"Structural, Motion Hardware",868
+Washers,872
+"Washers - Bushing, Shoulder",569
+Adjustable Inductors,171
+"Arrays, Signal Transformers",2469
+Delay Lines,221
+Fixed Inductors,149290
+Wireless Charging Coils,158
+Accessories,1924
+Cam Positioners,16
+Controllers - Accessories,1131
+Controllers - Cable Assemblies,2825
+"Controllers - Liquid, Level",448
+Controllers - Machine Safety,221
+Controllers - PLC Modules,1739
+"Controllers - Process, Temperature",2463
+Controllers - Programmable Logic (PLC),724
+Human Machine Interface (HMI),469
+Human Machine Interface (HMI) - Accessories,212
+Industrial Equipment,9836
+Lighting Control,62
+Lighting Control - Accessories,96
+Liquid Filtration,704
+Machine Safety - Laser Scanners,177
+Machine Safety - Light Curtains,4906
+Machine Vision - Accessories,491
+Machine Vision - Cameras/Sensors,481
+Machine Vision - Control/Processing,255
+Machine Vision - Lens,121
+Machine Vision - Lighting,370
+Monitor - Current/Voltage Transducer,422
+Monitor - Relay Output,792
+Panel Meters,1149
+Panel Meters - Accessories,542
+"Panel Meters - Counters, Hour Meters",1282
+"Pneumatics, Hydraulics",367
+Protection Relays & Systems,859
+Specialized,450
+Stackable Tower Lighting and Components,176
+Time Delay Relays,3888
+Audio Special Purpose,1381
+Clock/Timing - Application Specific,6873
+"Clock/Timing - Clock Buffers, Drivers",4334
+"Clock/Timing - Clock Generators, PLLs, Frequency Synthesizers",13357
+Clock/Timing - Delay Lines,847
+Clock/Timing - IC Batteries,4
+Clock/Timing - Programmable Timers and Oscillators,23496
+Clock/Timing - Real Time Clocks,2624
+Data Acquisition - ADCs/DACs - Special Purpose,2991
+Data Acquisition - Analog Front End (AFE),843
+Data Acquisition - Analog to Digital Converters (ADC),16329
+Data Acquisition - Digital Potentiometers,6555
+Data Acquisition - Digital to Analog Converters (DAC),12309
+Data Acquisition - Touch Screen Controllers,667
+Embedded - CPLDs (Complex Programmable Logic Devices),4269
+Embedded - DSP (Digital Signal Processors),2592
+Embedded - FPGAs (Field Programmable Gate Array),21427
+Embedded - FPGAs (Field Programmable Gate Array) with Microcontrollers,70
+"Embedded - Microcontroller, Microprocessor, FPGA Modules",900
+Embedded - Microcontrollers,76317
+Embedded - Microcontrollers - Application Specific,1650
+Embedded - Microprocessors,6296
+Embedded - PLDs (Programmable Logic Device),314
+Embedded - System On Chip (SoC),2115
+Interface - Analog Switches - Special Purpose,2840
+"Interface - Analog Switches, Multiplexers, Demultiplexers",12203
+Interface - CODECs,1635
+Interface - Controllers,2923
+Interface - Direct Digital Synthesis (DDS),143
+"Interface - Drivers, Receivers, Transceivers",19672
+"Interface - Encoders, Decoders, Converters",548
+Interface - Filters - Active,842
+Interface - I/O Expanders,1673
+Interface - Modems - ICs and Modules,260
+Interface - Modules,96
+Interface - Sensor and Detector Interfaces,1206
+"Interface - Sensor, Capacitive Touch",854
+"Interface - Serializers, Deserializers",1314
+"Interface - Signal Buffers, Repeaters, Splitters",1710
+Interface - Signal Terminators,260
+Interface - Specialized,5013
+Interface - Telecom,3034
+Interface - UARTs (Universal Asynchronous Receiver Transmitter),1165
+Interface - Voice Record and Playback,540
+Linear - Amplifiers - Audio,5854
+"Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps",39214
+Linear - Amplifiers - Special Purpose,1228
+Linear - Amplifiers - Video Amps and Modules,1896
+"Linear - Analog Multipliers, Dividers",122
+Linear - Comparators,6102
+Linear - Video Processing,2662
+"Logic - Buffers, Drivers, Receivers, Transceivers",17237
+Logic - Comparators,356
+"Logic - Counters, Dividers",2624
+Logic - FIFOs Memory,3389
+Logic - Flip Flops,6995
+Logic - Gates and Inverters,17545
+"Logic - Gates and Inverters - Multi-Function, Configurable",1594
+Logic - Latches,3408
+Logic - Multivibrators,838
+Logic - Parity Generators and Checkers,151
+Logic - Shift Registers,2361
+"Logic - Signal Switches, Multiplexers, Decoders",8630
+Logic - Specialty Logic,1770
+"Logic - Translators, Level Shifters",3962
+Logic - Universal Bus Functions,900
+Memory,52858
+Memory - Batteries,13
+Memory - Configuration Proms for FPGAs,580
+Memory - Controllers,155
+"PMIC - AC DC Converters, Offline Switchers",5096
+PMIC - Battery Chargers,4115
+PMIC - Battery Management,4327
+PMIC - Current Regulation/Management,2186
+PMIC - Display Drivers,1524
+PMIC - Energy Metering,649
+"PMIC - Full, Half-Bridge Drivers",1578
+PMIC - Gate Drivers,7676
+PMIC - Hot Swap Controllers,2348
+PMIC - Laser Drivers,464
+PMIC - LED Drivers,9426
+"PMIC - Lighting, Ballast Controllers",555
+"PMIC - Motor Drivers, Controllers",5534
+"PMIC - OR Controllers, Ideal Diodes",681
+PMIC - PFC (Power Factor Correction),1211
+"PMIC - Power Distribution Switches, Load Drivers",10172
+PMIC - Power Management - Specialized,6388
+PMIC - Power Over Ethernet (PoE) Controllers,771
+"PMIC - Power Supply Controllers, Monitors",1981
+PMIC - RMS to DC Converters,165
+PMIC - Supervisors,39838
+PMIC - Thermal Management,662
+PMIC - V/F and F/V Converters,163
+PMIC - Voltage Reference,12184
+PMIC - Voltage Regulators - DC DC Switching Controllers,11759
+PMIC - Voltage Regulators - DC DC Switching Regulators,30249
+PMIC - Voltage Regulators - Linear,66608
+PMIC - Voltage Regulators - Linear + Switching,1813
+PMIC - Voltage Regulators - Linear Regulator Controllers,260
+PMIC - Voltage Regulators - Special Purpose,4986
+Specialized ICs,1822
+Digital Isolators,4378
+Isolators - Gate Drivers,2118
+Optoisolators - Logic Output,2673
+"Optoisolators - Transistor, Photovoltaic Output",11670
+"Optoisolators - Triac, SCR Output",1804
+Special Purpose,93
+Accessories,89
+Audio Kits,31
+Cable Assemblies,25
+"Cables, Wires - Single Conductors",14
+Capacitor Kits,523
+Circuit Protection - Assortment Kits,94
+Circuit Protection Kits - Fuse,192
+Circuit Protection Kits - TVS Diodes,32
+Connector Adapter Kits,36
+Connector Kits,599
+Crystal Kits,5
+Discrete Assortment Kits,49
+"EMI, Filter Kits",141
+Fiber Optic Kits,36
+Hardware Kits,79
+Heat Shrink Tubing Kits,122
+Inductor Kits,306
+Integrated Circuits (ICs) Kits,47
+LED Kits,19
+Miscellaneous,48
+Optics - Light Pipe Kits,5
+Potentiometer Kits,75
+"Prototyping Boards, Fabrication Kits",22
+Resistor Kits,309
+RF Shield Kits,13
+Sensor Kits,135
+Static Control Kit,29
+Switch Kits,15
+Tape Kits,21
+Thermistor Kits,17
+Transformer Kits,25
+Wire and Cable Tie Kits,29
+Accessories,45
+"Barriers, Barricades, Floor Markings, Tapes",281
+"Labels, Stickers, Decals - Blank",2984
+"Labels, Stickers, Decals - Preprinted",5329
+"Lockouts, Padlocks",376
+"Signs, Nameplates, Posters",3394
+Tags,672
+Accessories,352
+DC to AC (Power) Inverters,158
+Line Conditioners,12
+"Power Distribution, Surge Protectors",2539
+Uninterruptible Power Supply (UPS) Systems,508
+"Bobbins (Coil Formers), Mounts, Hardware",506
+Ferrite Cores,4372
+Magnetic Wire,60
+"Books, Media",191
+Educational Kits,718
+"Gadgets, Gizmos",92
+"Prototyping, Fabrication",16
+Robotics Kits,324
+Wearables,232
+3D Printers,21
+3D Printing Accessories,46
+3D Printing Filaments,463
+Accessories,38
+Memory - Modules,2804
+Memory Cards,1279
+Solid State Drives (SSDs),3686
+Specialized,59
+USB Flash Drives,349
+Accessories,2232
+"Motor Driver Boards, Modules",1182
+"Motors - AC, DC",5889
+"Solenoids, Actuators",277
+Stepper Motors,497
+Accessories,580
+"Gateways, Routers",2467
+Media Converters,1898
+Miscellaneous,1006
+Serial Device Servers,479
+"Switches, Hubs",2916
+Accessories,225
+"Arms, Mounts, Stands",93
+Cameras,22
+"Eyepieces, Lenses",87
+Illumination Sources,52
+"Lamps - Magnifying, Task",220
+"Loupes, Magnifiers",36
+Microscopes,139
+Video Inspection Systems,65
+Accessories,4045
+"Addressable, Specialty",261
+"Display Bezels, Lenses",88
+"Display Modules - LCD, OLED Character and Numeric",1527
+"Display Modules - LCD, OLED, Graphic",2542
+Display Modules - LED Character and Numeric,4166
+Display Modules - LED Dot Matrix and Cluster,776
+Display Modules - Vacuum Fluorescent (VFD),203
+"Display, Monitor - Interface Controller",57
+Electroluminescent,88
+Fiber Optics - Attenuators,304
+Fiber Optics - Receivers,418
+"Fiber Optics - Switches, Multiplexers, Demultiplexers",387
+Fiber Optics - Transceiver Modules,2117
+Fiber Optics - Transmitters - Discrete,245
+Fiber Optics - Transmitters - Drive Circuitry Integrated,3893
+"Infrared, UV, Visible Emitters",3266
+Inverters,287
+Lamps - Cold Cathode Fluorescent (CCFL) & UV,84
+"Lamps - Incandescents, Neons",1274
+"Laser Diodes, Modules",629
+"Laser Diodes, Modules - Accessories",273
+LED Indication - Discrete,25932
+"LED Lighting - COBs, Engines, Modules",19600
+LED Lighting - Color,4014
+LED Lighting - White,30969
+LED Lighting Kits,25
+LED Thermal Products,557
+"LEDs - Circuit Board Indicators, Arrays, Light Bars, Bar Graphs",7231
+LEDs - Lamp Replacements,6579
+"LEDs - Spacers, Standoffs",2636
+Optics - Lenses,3287
+Optics - Light Pipes,2129
+Optics - Reflectors,536
+Optics - Remote Phosphor Light Source,269
+"Panel Indicators, Pilot Lights",29038
+Touch Screen Overlays,414
+Xenon Lighting,35
+Accessories,75
+Adjustable Power Resistor,610
+Joystick Potentiometers,378
+"Rotary Potentiometers, Rheostats",6693
+Scale Dials,65
+Slide Potentiometers,827
+Thumbwheel Potentiometers,356
+Trimmer Potentiometers,16032
+Value Display Potentiometers,25
+AC DC Converters,2783
+Accessories,344
+DC DC Converters,248794
+LED Drivers,230
+AC AC Wall Adapters,303
+AC DC Configurable Power Supplies (Factory Assembled),8
+AC DC Configurable Power Supply Chassis,82
+AC DC Configurable Power Supply Modules,78
+AC DC Converters,60680
+"AC DC Desktop, Wall Adapters",11462
+Accessories,1443
+DC DC Converters,2931
+LED Drivers,4246
+Power over Ethernet (PoE),182
+Accessories,312
+"Adapter, Breakout Boards",920
+Card Extenders,72
+"Coating, Grease, Repair",92
+"Drill Bits, End Mills",68
+Etching and Fabrication Equipment,52
+Jumper Wire,232
+"PCB Routers, Milling Machines",15
+Prototype Boards Perforated,411
+Prototype Boards Unperforated,90
+Solderless Breadboards,148
+Accessories,1205
+Automotive Relays,593
+Contactors (Electromechanical),784
+Contactors (Solid State),623
+High Frequency (RF) Relays,845
+I/O Relay Module Racks,208
+I/O Relay Modules,523
+"Power Relays, Over 2 Amps",16670
+Reed Relays,1283
+Relay Sockets,1250
+"Signal Relays, Up to 2 Amps",5650
+Solid State Relays,9121
+Accessories,194
+Chassis Mount Resistors,14257
+Chip Resistor - Surface Mount,571548
+"Resistor Networks, Arrays",37097
+Specialized Resistors,879
+Through Hole Resistors,359968
+Attenuators,3231
+Balun,1424
+RF Accessories,1795
+RF Amplifiers,5152
+RF Antennas,6607
+RF Demodulators,229
+RF Detectors,487
+RF Diplexers,833
+RF Directional Coupler,1316
+"RF Evaluation and Development Kits, Boards",6230
+RF Front End (LNA + PA),418
+RF Misc ICs and Modules,2028
+RF Mixers,1297
+RF Modulators,271
+RF Power Controller ICs,62
+RF Power Dividers/Splitters,434
+"RF Receiver, Transmitter, and Transceiver Finished Units",1463
+RF Receivers,1774
+RF Shields,15602
+RF Switches,1899
+RF Transceiver ICs,3960
+RF Transceiver Modules,4286
+RF Transmitters,794
+"RFI and EMI - Contacts, Fingerstock and Gaskets",4117
+RFI and EMI - Shielding and Absorbing Materials,3407
+RFID Accessories,114
+RFID Antennas,208
+"RFID Evaluation and Development Kits, Boards",232
+RFID Reader Modules,205
+"RFID Transponders, Tags",706
+"RFID, RF Access, Monitoring ICs",1387
+Accessories,4687
+Amplifiers,675
+Color Sensors,147
+Current Sensors,1861
+Dust Sensors,27
+Encoders,7306
+"Float, Level Sensors",955
+Flow Sensors,228
+Force Sensors,111
+Gas Sensors,327
+"Humidity, Moisture Sensors",564
+"Image Sensors, Camera",1095
+IrDA Transceiver Modules,300
+LVDT Transducers (Linear Variable Differential Transformer),18
+"Magnetic Sensors - Compass, Magnetic Field (Modules)",69
+"Magnetic Sensors - Linear, Compass (ICs)",1214
+"Magnetic Sensors - Position, Proximity, Speed (Modules)",4235
+Magnetic Sensors - Switches (Solid State),4102
+Magnets - Multi Purpose,154
+Magnets - Sensor Matched,37
+Motion Sensors - Accelerometers,1650
+Motion Sensors - Gyroscopes,261
+Motion Sensors - IMUs (Inertial Measurement Units),319
+Motion Sensors - Inclinometers,85
+Motion Sensors - Optical,439
+Motion Sensors - Tilt Switches,56
+Motion Sensors - Vibration,69
+Multifunction,76
+"Optical Sensors - Ambient Light, IR, UV Sensors",1192
+Optical Sensors - Distance Measuring,114
+Optical Sensors - Photo Detectors - CdS Cells,60
+Optical Sensors - Photo Detectors - Logic Output,136
+Optical Sensors - Photo Detectors - Remote Receiver,1643
+Optical Sensors - Photodiodes,1220
+"Optical Sensors - Photoelectric, Industrial",9905
+Optical Sensors - Photointerrupters - Slot Type - Logic Output,1172
+Optical Sensors - Photointerrupters - Slot Type - Transistor Output,1314
+Optical Sensors - Phototransistors,938
+Optical Sensors - Reflective - Analog Output,360
+Optical Sensors - Reflective - Logic Output,161
+"Position Sensors - Angle, Linear Position Measuring",2796
+"Pressure Sensors, Transducers",30433
+Proximity Sensors,6792
+Proximity/Occupancy Sensors - Finished Units,246
+Sensor Cable - Accessories,626
+Sensor Cable - Assemblies,1077
+Sensor Interface - Junction Blocks,1428
+Shock Sensors,28
+Solar Cells,161
+Specialized Sensors,918
+Strain Gauges,422
+Temperature Sensors - Analog and Digital Output,4114
+Temperature Sensors - NTC Thermistors,7450
+Temperature Sensors - PTC Thermistors,1318
+Temperature Sensors - RTD (Resistance Temperature Detector),287
+"Temperature Sensors - Thermocouple, Temperature Probes",529
+Temperature Sensors - Thermostats - Mechanical,4204
+Temperature Sensors - Thermostats - Solid State,1455
+Touch Sensors,27
+"Ultrasonic Receivers, Transmitters",1513
+Accessories,804
+"Desoldering Braid, Wick, Pumps",356
+"Dispensers, Dispenser Tips",188
+"Flux, Flux Remover",103
+"Fume, Smoke Extraction",132
+"Holders, Stands",53
+Solder,1174
+"Solder Sponges, Tip Cleaners",92
+"Solder Stencils, Templates",448
+"Soldering Irons, Tweezers, Handles",254
+"Soldering, Desoldering, Rework Stations",181
+"Soldering, Desoldering, Rework Tips, Nozzles",2269
+Accessories,961
+Clean Room Swabs and Brushes,201
+"Clean Room Treatments, Cleaners, Wipes",286
+Ionizer Equipment,137
+"Monitors, Testers",206
+Static Control Clothing,673
+Static Control Device Containers,769
+"Static Control Grounding Cords, Straps",405
+Static Control Grounding Mats,585
+"Static Control Shielding Bags, Materials",1472
+Accessories,7232
+"Accessories - Boots, Seals",366
+Accessories - Caps,3793
+Cable Pull Switches,223
+Configurable Switch Components - Body,4639
+Configurable Switch Components - Contact Block,730
+Configurable Switch Components - Illumination Source,261
+Configurable Switch Components - Lens,617
+DIP Switches,6391
+Disconnect Switch Components,777
+Keylock Switches,2055
+Keypad Switches,526
+"Magnetic, Reed Switches",1405
+"Navigation Switches, Joystick",476
+Programmable Display Switches,30
+Pushbutton Switches,169623
+Pushbutton Switches - Hall Effect,123
+Rocker Switches,13389
+Rotary Switches,13199
+Selector Switches,5973
+Slide Switches,3899
+"Snap Action, Limit Switches",21395
+Tactile Switches,7866
+Thumbwheel Switches,652
+Toggle Switches,23481
+Accessories,66
+Films,156
+"Glue, Adhesives, Applicators",1150
+Tape,26319
+Tape Dispensers,63
+2D Materials,41
+Accessories,2776
+Equipment - Combination Sets,67
+"Equipment - Electrical Testers, Current Probes",660
+Equipment - Environmental Testers,1243
+Equipment - Function Generators,80
+Equipment - Multimeters,330
+Equipment - Oscilloscopes,201
+"Equipment - Power Supplies (Test, Bench)",474
+Equipment - Specialty,1135
+Equipment - Spectrum Analyzers,23
+Equipment - Variable Transformers,740
+"Test Clips - Alligator, Crocodile, Heavy Duty",639
+"Test Clips - Grabbers, Hooks",426
+Test Clips - IC,180
+"Test Leads - Banana, Meter Interface",1970
+Test Leads - BNC Interface,311
+"Test Leads - Jumper, Specialty",739
+"Test Leads - Kits, Assortments",192
+Test Leads - Oscilloscope Probes,310
+"Test Leads - Thermocouples, Temperature Probes",544
+Test Points,314
+Test Probe Tips,262
+Thermometers,209
+Abrasives and Surface Conditioning Products,4673
+Accessories,5289
+Assorted Tool Kits,438
+"Chemicals, Cleaners",192
+"Crimpers - Crimp Heads, Die Sets",4028
+"Crimpers, Applicators, Presses",18415
+"Crimpers, Applicators, Presses - Accessories",48718
+"Excavators, Hooks, Picks, Probes, Tuning Tools",158
+Fiber Optics and Accessories,320
+Flashlights,152
+Hammers,233
+"Heat Guns, Torches, Accessories",866
+"Hex, Torx Keys",735
+"Insertion, Extraction",3151
+"Knives, Cutting Tools",490
+Personal Protective Equipment (PPE),1666
+Pliers,833
+"Punchdown, Blades",139
+Punches,190
+Screw and Nut Drivers,2285
+"Screw and Nut Drivers - Bits, Blades and Handles",2552
+Screw and Nut Drivers - Sets,1105
+Sockets - Sets,375
+"Sockets, Socket Handles",3334
+Specialized Tools,2820
+"Spiral Wrap, Expandable Sleeving",64
+Staking Tools,62
+Tweezers,606
+Vacuums,22
+Vises,39
+Wire Cutters,1045
+Wire Strippers and Accessories,758
+Wire Tie Guns and Accessories,130
+Wire Wrap,58
+Wrenches,1839
+Accessories,49
+Audio Transformers,573
+Current Sense Transformers,829
+"Isolation Transformers and Autotransformers, Step Up, Step Down",248
+Power Transformers,5405
+Pulse Transformers,5601
+Specialty Transformers,461
+"Switching Converter, SMPS Transformers",1490
+Miscellaneous,467028
+Unclassified,3261
